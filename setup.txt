@@ -1,0 +1,21 @@
+At home
+
+1-install vs code
+2- install python, using anaconda is easiest
+https://www.anaconda.com/
+
+give email, check email for download link, download
+
+ *add to path* in install, make sure to not click through all options without selecting this
+
+"Add anaconda to my path environment" -  I know it says “Not Recommended”. Do it anyway! 🙂
+
+
+
+3 - in terminal (file new terminal) type
+
+python -m pip install -U pygame --user
+
+or maybe just python -m pip install pygame
+https://www.pygame.org/wiki/GettingStarted
+
